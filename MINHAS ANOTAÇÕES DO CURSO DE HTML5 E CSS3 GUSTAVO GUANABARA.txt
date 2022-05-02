@@ -1,0 +1,49 @@
+MINHAS ANOTAÇÕES DO CURSO DE HTML5 E CSS3 GUSTAVO GUANABARA
+
+
+<h1></h1> *tag de título
+<p></p> *tag de parágrafo
+<br> *tag de quebra de linha
+<hr> *tag de linha horizontal
+&lt; *sinal de menor que
+&gt; *sinal de maior que
+<!----> *comentário
+&reg; *símbolo de marca registrada
+&copy; *símbolo de copyright
+8#x *inicial pra inserir emojis.. emojipedia.org
+
+site com muitos favicons iconarchieve.com
+Site pra criar favicons digitar no navegador: favicon.cc
+favicon.io transformar .png em .ico
+
+hierarquia de títulos h1 h2 h3 h4 h5 h6
+
+texto em destaque (parte forte da frase) <strong></strong>
+texto com ênfase <em></em>
+texto marcado (pintado) <mark></mark>
+texto grande <big></big>
+texto pequeno <small></small>
+texto deletado <del></del>
+texto inserido <ins></ins>
+texto sobrescrito <sup></sup>
+texto subscrito <sub></sub>
+
+atalho pra selecionar um texto e colocar dentro de tags: ctrl+shit+p, procura por wrap with abbreviation, aperta enter, digita a tag e aperta enter.
+
+<code></code> tag pra colocar fonte mono-espaçada
+<pre></pre> tag que faz o texto obedecer indentações (utilizados por ex para códigos em python), as linhas que são puladas, etc.
+colocar o texto como uma citação <q></q>
+Também pode fazer citação usando <blockquote cite=""></blockquote> pra fazer a citação e colar o link de onde retirou
+
+Tag <abbr> para dizer o significado de alguma abreviação
+tag <bdo> para texto invertido
+
+Extensão auto rename tag para html no vs code, quando quero mudar a abertura de uma tag, o fechamento muda tembém.
+
+A partir do HTML5, a tag de fechamento </li> se tornou opcional, podendo ter apenas a tag de abertura <li>
+
+<dl> Definition list
+   <dt> Definition term
+   <dd> Definition description
+
+Media types (parametros pra download de midias, pdf, arquivo zip ou rar etc): https://www.iana.org/assignments/media-types/media-types.xhtml
